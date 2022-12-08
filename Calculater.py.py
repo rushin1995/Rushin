@@ -1,6 +1,6 @@
 def add(a, b):  
     sum = a + b  
-    print(a, "+", b, "=", sum)  
+    print(a, "+", b, "=", add)  
   
   
 def subtract(a, b):  
